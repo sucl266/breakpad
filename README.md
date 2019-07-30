@@ -1,4 +1,4 @@
-# Breakpa
+# Breakpad
 
 Breakpad is a set of client and server components which implement a
 crash-reporting system.
